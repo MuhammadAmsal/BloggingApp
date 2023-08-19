@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+a.nav-link.active {
+    margin-right: 900px;
+}
+.navbar-nav{
+    margin-left: 770px;
+}
+button {
+    border: none;
+    margin-top: 7px;
+}
+a.navbar-brand {
+    font-weight: bold;
+}
+#postArea3{
+    width: 100%;
+    margin-top: 100px;
+    /* box-shadow:  5px 6px 5px 7px lightgrey; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+  }
+  .card1{
+    width: 700px;
+    margin-top: 100px;
+    box-shadow:  5px 6px 5px 7px lightgrey;
+height: 200px;
+padding: 50px;
+  }

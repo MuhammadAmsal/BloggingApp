@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+     
+  }
+
+#card {
+    width: 450px;
+    margin-top: 100px;
+    box-shadow:  5px 6px 5px 4px lightgrey;
+   
+  }
+  .form-control{
+    width: 300px;
+  }
+  .button-signup{
+    background-color:#7952b3!important;
+    color: white!important;
+  }
+  #formsignup{
+    padding: 40px;
+  }
+  span.navbar-brand.mb-0.h1 {
+    font-size: 29px;
+}
+span.navbar-brand.mb-0.h1 {
+    padding-left: 50px;
+}
+a {
+    padding-right: 230px;
+}

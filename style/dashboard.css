@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navbar-nav{
+    margin-left:  870px;
+}
+form {
+    width: 50%;
+    height: 200px;
+}
+/* .card {
+    width: 450px;
+    margin-top: 50px;
+    box-shadow:  5px 6px 5px 4px lightgrey;
+   width: 800px;
+   height: 340px;
+  } */
+  .div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+  }
+  .btn{
+    background-color:#7952b3!important;
+    color: white!important;
+  }
+  #title{
+    width: 700px;
+}
+#description{
+    width: 700px;
+    height: 150px;
+}
+.postArea{
+    padding: 40px;
+  }
+  /* .mainDiv{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+  } */
+  /* .postArea2{
+    display: flex;
+    justify-content: center;
+margin-top: 20px;
+  } */
+  #postArea2{
+    width: 100%;
+    margin-top: 100px;
+    /* box-shadow:  5px 6px 5px 7px lightgrey; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+  }
+  .card1{
+    width: 700px;
+    margin-top: 100px;
+    box-shadow:  5px 6px 5px 7px lightgrey;
+height: 200px;
+padding: 50px;
+  }
