@@ -1,14 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-app.js";
 import {getAuth,signInWithEmailAndPassword} from "https://www.gstatic.com/firebasejs/10.2.0/firebase-auth.js";
 
-const firebaseConfig = {
-    apiKey: "AIzaSyBMm8boJfpLYLWDjkcMUGMovJU8GukgA1E",
-    authDomain: "blogging-app-627a5.firebaseapp.com",
-    projectId: "blogging-app-627a5",
-    storageBucket: "blogging-app-627a5.appspot.com",
-    messagingSenderId: "919376477371",
-    appId: "1:919376477371:web:b14c2bc99448405ee23d9e"
-  };
+const firebaseConfig = ........................./
   
    
   const app = initializeApp(firebaseConfig);
